@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AshiqMehmood
-- 👀 I’m interested in Software development and Product design.
-- 🌱 I’m currently learning Advanced web development, Autonomous vehicle design & engineering etc.. 
+- 👀 I’m interested in Software development, Data Engineering & Analytics and Product design.
+- 🌱 I’m currently learning Advanced Data Engineering methods, Machine Learning & AI etc.. 
 - 📫 Reach me at mehmood97ashiq@gmail.com
 
 <!---
